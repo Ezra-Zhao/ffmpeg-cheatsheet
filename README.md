@@ -1,5 +1,7 @@
 # FFmpeg 命令速查表 · FFmpeg Cheatsheet
 
+[![Stars](https://img.shields.io/github/stars/Ezra-Zhao/ffmpeg-cheatsheet?style=social)](https://github.com/Ezra-Zhao/ffmpeg-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
+
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
 
 一份**一页纸**的 FFmpeg 命令速查表：28 条真正常用的命令，每条只讲两件事——**它是干什么的、一条复制即用的命令**。转码、压缩、提音频、转 GIF、剪切拼接、加水印、推流、批量处理，全覆盖。不灌水，不凑数。
